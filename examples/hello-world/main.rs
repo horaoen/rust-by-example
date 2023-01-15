@@ -11,5 +11,8 @@ fn main() {
     testcase::test_pi_fmt();
     testcase::test_complex_display();
     debug_display::show_boy();
+    testcase::show_list();
+    testcase::test_hex_fmt();
 }
+
 
