@@ -23,4 +23,3 @@ pub fn inspect(event: WebEvent) {
         }
     }
 }
-
